@@ -14,8 +14,9 @@
         <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
         {{ end }}
         {{ end }}
+        
 
-        {{with .image}}<img src="{{ . | absURL }}" class="img-fluid mt-5" width="1920px" height="823px">{{end}}
+        {{with .image}}<img src="{{ . | absURL }}" class="img-fluid m-100" width="1920px" height="823px">{{end}}
        
       </div>
     </div>
