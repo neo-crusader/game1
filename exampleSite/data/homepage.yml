@@ -35,8 +35,6 @@ service:
   - title: What We Do
     images:
     - "/images/developer-2x.png"
-    - images/service-2.png
-    - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
