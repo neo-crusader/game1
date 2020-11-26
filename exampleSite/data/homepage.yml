@@ -46,7 +46,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Super Game 02
     images:
     - images/service-1.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
