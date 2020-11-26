@@ -32,7 +32,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Super Game 01
     images:
     - images/service-1.png
     - images/service-2.png
