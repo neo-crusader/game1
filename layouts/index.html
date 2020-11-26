@@ -9,7 +9,11 @@
         <h1 class="mb-3">{{ .title | markdownify }}</h1>
         <p class="mb-4">{{ .content | markdownify }}</p>
         
-    
+        {{ if .button.enable }}
+        {{ with .button }}
+        <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
+        {{ end }}
+        {{ end }}
 
         {{with .image}}<img src="{{ . | absURL }}" class="img-fluid mt-5" width="1920px" height="823px">{{end}}
        
