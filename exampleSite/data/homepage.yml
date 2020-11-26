@@ -70,7 +70,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Super Game 04
     images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
