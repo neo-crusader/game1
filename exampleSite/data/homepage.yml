@@ -1,10 +1,8 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: "<br>"
   image: images/Nexup-header.png
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: "<br>"
   button:
     enable: true
     label: Contact With Us
