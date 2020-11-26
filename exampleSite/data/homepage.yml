@@ -34,7 +34,7 @@ service:
   service_item:
   - title: What We Do
     images:
-    - images/service-1.png
+    - "/images/developer-2x.png"
     - images/service-2.png
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
