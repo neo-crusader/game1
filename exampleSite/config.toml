@@ -64,7 +64,7 @@ footer_menu_right = "Support"
 logo = "images/nexupdev_logo_transparent-2x.png"
 logo_width = "140px"
 [params.navigation_button]
-enable = true
+enable = false
 label = "Get Started"
 link = "contact"
 [[params.plugins.css]]
