@@ -17,19 +17,22 @@ URL = "#"
 name = "Quick Start"
 [[menu.footer_middle]]
 URL = "pricing"
-name = "Pricing"
+name = "ABOUT US"
 [[menu.footer_middle]]
 URL = "#"
-name = "Platform"
+name = "OUR PROJECTS"
 [[menu.footer_middle]]
 URL = "#"
-name = "Features"
+name = "CONTACT US"
+[[menu.footer_middle]]
+URL = "#"
+name = "JOIN THE TEAM"
+[[menu.footer_right]]
+URL = "terms-conditions"
+name = "PRESS"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
