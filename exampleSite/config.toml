@@ -98,3 +98,7 @@ title = "skype"
 icon = "ti-linkedin"
 link = "#"
 title = "linkedin"
+[[params.social]]
+icon = "ti-youtube"
+link = "youtube.com"
+title = "youtube"
