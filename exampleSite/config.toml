@@ -32,7 +32,7 @@ URL = "terms-conditions"
 name = "PRESS"
 [[menu.footer_right]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "PRIVACY POLICY"
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
