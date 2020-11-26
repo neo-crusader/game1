@@ -8,7 +8,7 @@ banner:
     label: Contact With Us
     link: "#"
 feature:
-  enable: true
+  enable: false
   title: Something You Need To Know
   feature_item:
   - name: Clean Code
