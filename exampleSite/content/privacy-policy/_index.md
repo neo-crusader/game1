@@ -2,10 +2,6 @@
 title: Privecy & Policy
 subtitle: ''
 description: This is meta description
-menu:
-  main:
-    name: Test
-    weight: 5
 
 ---
 #### Responsibility of Contributors
