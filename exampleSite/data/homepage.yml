@@ -4,7 +4,7 @@ banner:
   image: images/Nexup-header.png
   content: "<br>"
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: "#"
 feature:
