@@ -1,8 +1,8 @@
 ---
 banner:
-  title: "<br>"
+  title: ''
   image: images/Nexup-header.png
-  content: "<br>"
+  content: ''
   button:
     enable: false
     label: Contact With Us
